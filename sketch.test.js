@@ -4,7 +4,7 @@ const sum = require('./sketch');
 //     expect(sum(1,2)).toBe(3);
 // });
 
-test('adding 1 to 2 to equal 3',);
+test('adding 1 to 2 to equal 3',sumTest);
 
 function sumTest() {
     expect(sum(1,2)).toBe(3);
