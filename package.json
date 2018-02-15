@@ -14,5 +14,13 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^22.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djEatch/citest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/djEatch/citest/issues"
+  },
+  "homepage": "https://github.com/djEatch/citest#readme"
 }
